@@ -17,10 +17,13 @@ E- COMMERCE 🚀
 ### **BASE DE DATOS**
 - Para pruebas se uso la base de datos h2
 - Conforme la configuracion (application.properties):
- 1° se debe acceder a la ruta: http://localhost:8080/h2-console
- 2° Rellenar los campos conforme a la configuracion
+ 
+1° se debe acceder a la ruta: http://localhost:8080/h2-console
+ 
+2° Rellenar los campos conforme a la configuracion
  ![img.png](img.png)
- 3° Los datos son guardados en carpeta: C:\data (archivo it).
+
+3° Los datos son guardados en carpeta: C:\data (archivo it).
  Observacion: si su pc no posee la ruta c:\ debe modificarla en el archivo properties.
 ### **OBJETIVO**
 
